@@ -4,5 +4,6 @@
 
 layout: home
 ---
-* Welcome!
-Welcome to Kuzuryu
+# Welcome!
+Welcome to Kuzuryu. 
+[About](./about/)
