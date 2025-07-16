@@ -14,7 +14,11 @@ categories: links
 
 [Pintereso Theme](https://bootstrapstarter.com/template-pintereso-bootstrap-jekyll/)
 
+[Minimal Mistakes Theme](https://github.com/mmistakes/minimal-mistakes) 
+
 [Embed Video, boas dicas](https://github.com/nathancy/jekyll-embed-video)
+
+
 
 ### Animiojo
 
