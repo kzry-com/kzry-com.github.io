@@ -1,0 +1,32 @@
+---
+layout: single
+title:  "Suno"
+date:   2026-05-29 16:23:39 -0300
+categories: suno genAi
+
+---
+
+# SUNO
+
+## Forro Instrumental
+
+- Forró Eletrônico Minimalista
+
+```
+“Versão instrumental minimalista de forró eletrônico. BPM lento (70–85). Sanfona suave e etérea com reverb, pads quentes e sintetizadores leves. Batida reduzida, apenas elementos rítmicos sutis e espaçados. Atmosfera romântica, moderna e emocional. Texturas eletrônicas delicadas, groove suave, clima íntimo e contemplativo.”
+```
+
+- Forró Romântico Atmosférico
+
+```
+“Instrumental de forró romântico em versão lenta e minimalista. Sanfona macia, melodias sentimentais, piano suave e pads aéreos. Percussão leve e espaçada, quase sussurrada. Clima apaixonado, nostálgico e envolvente. Estética moderna, limpa e emocional.”
+```
+
+
+- Forró Soaking
+
+```
+“Forró eletrônico em estilo soaking. Pads longos e profundos, sanfona processada com reverb amplo, melodias lentas e flutuantes. Sem batida marcada ou com percussão mínima. Atmosfera meditativa, romântica e etérea. Texturas eletrônicas suaves, sensação de imersão e calma.”
+```
+
+

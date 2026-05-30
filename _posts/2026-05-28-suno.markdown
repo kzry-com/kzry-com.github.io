@@ -1,0 +1,51 @@
+---
+layout: single
+title:  "Suno"
+date:   2026-05-28 16:23:39 -0300
+categories: suno genAi
+
+---
+
+# SUNO
+
+## Worship Instrumental
+
+- Atmospheric Worship
+
+```
+“Soft worship instrumental. Warm felt piano playing slow, emotional chords with gentle reverb. Airy synth pads swelling underneath, smooth and heavenly. No drums. Slow tempo (60–70 BPM). Peaceful, prayerful, intimate atmosphere. Cinematic space, long tails, soft dynamics. Perfect for worship, devotion, and quiet moments.”
+```
+
+- Soaking Worship Prompt
+
+```
+“Soaking worship instrumental. Deep ambient pads with lush reverb, slow evolving textures, and soft shimmering overtones. Minimalist piano melodies, very spacious and emotional. No rhythm, no percussion. Slow BPM (55–65). Calm, meditative, spiritual, and immersive.”
+```
+
+- Uplifting Worship Prompt
+
+```
+“Modern worship background track. Bright piano arpeggios, warm analog pads, gentle sub‑bass, and light atmospheric textures. Inspirational, hopeful, and uplifting. Medium‑slow tempo (70–80 BPM). Smooth transitions, wide stereo ambience, soft emotional build.”
+```
+
+- Soaking Worship Instrumental
+
+```
+“Soaking worship instrumental. Slow, evolving ambient pads with long reverb tails, warm analog textures, and gentle shimmer. Sparse, emotional piano notes drifting in and out. No rhythm, no percussion. Very spacious, meditative, and spiritual. Soft swells, heavenly atmosphere, peaceful and immersive. 55–65 BPM or free‑time.”
+```
+
+- Minimal Soaking Atmosphere
+
+```
+“Ultra‑minimal soaking worship ambience. Whisper‑soft pads, airy textures, subtle harmonic movement. Occasional felt‑piano notes with deep reverb. No tempo, no beat. Pure calm, prayerful, floating atmosphere. Gentle, intimate, and deeply reflective.”
+```
+
+
+- Cinematic Soaking Pads
+
+```
+“Cinematic soaking worship soundscape. Wide stereo pads, lush reverb, soft sub‑bass warmth, and light shimmering overtones. Sparse piano melodies with emotional resonance. Slow, evolving textures. Heavenly, expansive, and deeply spiritual.”
+```
+
+
+
