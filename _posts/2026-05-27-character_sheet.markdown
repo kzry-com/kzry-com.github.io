@@ -31,6 +31,9 @@ Maintain identical head height across the full-body lineup and consistent facial
 Use identical lighting across every panel(same direction, intensity, and softness) with natural, controlled shadows that preserve surface detail without dramatic contrast or mood shifts.
 
 The final output should appear as a crisp, high-resolution, print-ready professional character turnaround sheet with sharp details and clean presentation.
-```
 
+Add a subtle drop shadow under each view for depth.
+
+Use a faint horizontal divider between the full-body and portrait rows.
+```
 
